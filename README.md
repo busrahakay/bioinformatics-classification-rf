@@ -1,10 +1,10 @@
-🧬 Bioinformatics Classification with Random Forest  
+# 🧬 Bioinformatics Classification with Random Forest  
 FASTA formatında genetik dizilimlerden k-mer tabanlı özellik çıkarımı yapılarak Random Forest algoritması ile biyolojik sınıflandırma gerçekleştirildi.  
 📚 Proje, “Biyoinformatiğe Giriş” dersi final ödevi kapsamında hazırlanmıştır.
 
 ---
 
-📂 Veri Setleri ve Kaynaklar
+## 📂 Veri Setleri ve Kaynaklar
 
 - **dataset-dog.fasta**  
   🔗 https://www.ncbi.nlm.nih.gov/nuccore/AF013216.1?report=fasta  
@@ -16,7 +16,7 @@ FASTA formatında genetik dizilimlerden k-mer tabanlı özellik çıkarımı yap
 
 ---
 
-✨ Proje Özellikleri
+## ✨ Proje Özellikleri
 
 🔬 FASTA formatlı biyolojik dizilerden k-mer (alt dizi) çıkarımı  
 📊 Sayısal özellik vektörlerinin oluşturulması  
@@ -28,7 +28,7 @@ FASTA formatında genetik dizilimlerden k-mer tabanlı özellik çıkarımı yap
 
 ---
 
-📦 Kullanılan Kütüphaneler
+## 📦 Kullanılan Kütüphaneler
 
 - `pandas`, `numpy`, `collections.Counter`  
 - `scikit-learn`: RandomForest, GridSearchCV, StandardScaler, train_test_split  
@@ -37,7 +37,7 @@ FASTA formatında genetik dizilimlerden k-mer tabanlı özellik çıkarımı yap
 
 ---
 
-🚀 Projeyi Çalıştırmak İçin
+## 🚀 Projeyi Çalıştırmak İçin
 
 ```bash
 git clone https://github.com/busrahakay/bioinformatics-classification-rf.git
